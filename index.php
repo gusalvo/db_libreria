@@ -17,7 +17,7 @@
 
 <table border="1" width="600">
 
-    <CAPTION>Elenco libri</CAPTION>
+    <CAPTION>Elenco Libreria</CAPTION>
 
     <thead>
     <tr>
