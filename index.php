@@ -23,11 +23,11 @@
     <tr>
 
         <th>
-            Titolo
+           Nome libro
         </th>
 
         <th>
-            Categoria
+            Categoria 
         </th>
 
 
