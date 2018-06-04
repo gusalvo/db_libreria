@@ -17,7 +17,7 @@
 
 <table border="1" width="600">
 
-    <CAPTION>Elenco Libreria</CAPTION>
+    <CAPTION>Elenco Libri Biblioteca Palermo</CAPTION>
 
     <thead>
     <tr>
